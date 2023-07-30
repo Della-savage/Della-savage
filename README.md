@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning Blockchain technology 
 - 💞️ I’m looking to collaborate on every skilled tech persons
 - 📫 How to reach me on gmail@ dellanysavage@gmail.com
+- 
+- Hey there, i recently became a blockchain professional
+- I am now training to become An AI engineer
+- Recently also i became a student of ALX, AFRICA
+- I am now a full stack engineer
 
+- 
 See ya😉
 Della-savage/Della-savage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-hey there, i recently became a blockchain professional
-then i went into the AI space and will soon become an AI engineer
-Recently became a student at ALX, AFRICA
-And i am now a full stack engineer
+You can click the Preview link to take a look at your change
