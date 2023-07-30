@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 hey there, i recently became a blockchain professional
 then i went into the AI space and will soon become an AI engineer
-Recently judt became a student at ALX, AFRICA
+Recently became a student at ALX, AFRICA
 And i am now a full stack engineer
